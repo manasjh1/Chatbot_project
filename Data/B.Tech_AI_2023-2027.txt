@@ -1,0 +1,162 @@
+# B.Tech Computer Science and Engineering 
+## Specialization: Artificial Intelligence
+### Program Structure (2023-2027 Batch Only)
+
+**IMPORTANT NOTE: This program structure is exclusively applicable to students admitted in the 2023-2027 batch.**
+
+## Institution Details
+- University School of Information and Communication Technology
+- Department of Computer Science and Engineering
+- Gautam Buddha University, Greater Noida, UP, India
+
+### SEMESTER I (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| MA101 | Engineering Mathematics-I | 3 | 1 | 0 | 4 | GE1 |
+| PH102 | Engineering Physics | 3 | 1 | 0 | 4 | GE2 |
+| CS101 | Fundamentals of Computer Programming | 3 | 1 | 0 | 4 | CC1/FC |
+| CS105 | Introduction of Artificial Intelligence | 2 | 0 | 0 | 2 | CC2/FC |
+| EC101 | Basic Electronics Engineering | 3 | 1 | 0 | 4 | GE3/FC |
+| EN101 | English Proficiency | 2 | 0 | 0 | 2 | OE1/AECC |
+| CE103 | Engineering Graphics Lab | 1 | 0 | 2 | 2 | GE-L1 |
+| PH104 | Engineering Physics Lab | 0 | 0 | 2 | 1 | GE-L2 |
+| CS181 | Computer Programming Lab | 0 | 0 | 2 | 1 | CC-L1/SEC |
+| EC181 | Basic Electronics Engineering Lab | 0 | 0 | 2 | 1 | GE-L3 |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER II (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| MA102 | Engineering Mathematics-II | 3 | 1 | 0 | 4 | GE4 |
+| AI102 | Introduction to Python | 2 | 0 | 0 | 2 | CC3/SEC |
+| EE102 | Basic Electrical Engineering | 3 | 1 | 0 | 4 | GE5 |
+| ME101 | Engineering Mechanics | 3 | 1 | 0 | 4 | GE6 |
+| ES101 | Environmental Studies | 3 | 1 | 0 | 4 | OE2/AECC |
+| AI104 | Data Structures and Algorithms | 2 | 0 | 0 | 2 | CC4 |
+| EE104 | Basic Electrical Engineering Lab | 0 | 0 | 2 | 1 | GE-L4 |
+| AI182 | Python Lab | 0 | 0 | 2 | 1 | CC-L2/SEC |
+| ME102 | Workshop Practice | 1 | 0 | 2 | 2 | GE-L5 |
+| AI184 | Data Structure and Algorithms Lab | 0 | 0 | 2 | 1 | CC-L3 |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER III (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI201 | Software Engineering | 3 | 0 | 0 | 3 | CC5 |
+| AI203 | Intelligent Systems | 3 | 0 | 0 | 3 | CC6 |
+| AI205 | Theory of Computations and Theory of Automata | 3 | 0 | 0 | 3 | CC7 |
+| AI207 | Database Management Systems | 3 | 0 | 0 | 3 | CC8 |
+| AI209 | Image Processing and Computer Vision | 3 | 0 | 0 | 3 | CC9 |
+| AI211 | Introduction to R Programming | 3 | 1 | 0 | 4 | CC10/SEC |
+| AI281 | Database Management Systems Lab | 0 | 0 | 3 | 2 | CC-L4 |
+| AI283 | Image Processing and Computer Vision Lab | 0 | 0 | 3 | 2 | CC-L5 |
+| AI285 | R Programming Lab | 0 | 0 | 3 | 2 | CC-L6/SEC |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER IV (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI202 | Machine Learning | 3 | 1 | 0 | 4 | CC11 |
+| AI204 | Operating Systems | 3 | 0 | 0 | 3 | CC12 |
+| AI206 | Computer Interfacing and Embedded Systems | 3 | 0 | 0 | 3 | CC13 |
+| AI208 | Design and Analysis of Algorithms | 3 | 0 | 0 | 3 | CC14/SEC |
+| AI210 | Quantum Computing | 3 | 0 | 0 | 3 | CC15 |
+| AI212 | Computer Networks | 3 | 0 | 0 | 3 | CC16 |
+| AI282 | Machine Learning using Python Lab | 0 | 0 | 3 | 2 | CC-L7/SEC |
+| AI284 | Operating Systems Lab | 0 | 0 | 3 | 2 | CC-L8 |
+| AI286 | Design and Analysis of Algorithms Lab | 0 | 0 | 3 | 2 | CC-L9/SEC |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER V (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI301 | Big Data Analytics | 3 | 0 | 0 | 3 | CC17 |
+| AI303 | Compiler Design | 3 | 0 | 0 | 3 | CC18 |
+| AI305 | Deep Learning and Reinforcement Learning | 3 | 0 | 0 | 3 | CC19/SEC |
+| AI307 | Operational Information Security Management and Biometric | 3 | 1 | 0 | 4 | CC20 |
+| - | Elective 1 | 3 | 0 | 0 | 3 | E1/DSE |
+| - | Elective 2 | 3 | 0 | 0 | 3 | E2/DSE |
+| AI381 | Big Data Analytics Lab | 0 | 0 | 3 | 2 | CC-L10/SEC |
+| AI383 | Compiler Design Lab | 0 | 0 | 3 | 2 | CC-L11 |
+| AI385 | Deep Learning Lab using Python | 0 | 0 | 3 | 2 | CC-L12 |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER VI (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI302 | IoT and Its Applications | 3 | 0 | 0 | 3 | CC21 |
+| AI304 | Expert Systems | 3 | 0 | 0 | 3 | CC22 |
+| AI306 | Cloud Computing | 3 | 0 | 0 | 3 | CC23/SEC |
+| AI308 | Metaheuristics for Optimization | 3 | 1 | 0 | 4 | CC24 |
+| - | Elective 3 | 3 | 0 | 0 | 3 | E3/DSE |
+| - | Elective 4 | 3 | 0 | 0 | 3 | E4/DSE |
+| AI382 | Internet of Things Lab | 0 | 0 | 3 | 2 | CC-L13 |
+| AI384 | Expert Systems Lab | 0 | 0 | 3 | 2 | CC-L14/SEC |
+| AI386 | Cloud Computing Lab | 0 | 0 | 3 | 2 | CC-L15 |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER VII (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI401 | Parallel Processing and CUDA Programming | 3 | 1 | 0 | 4 | CC25 |
+| AI403 | Computational Intelligence | 3 | 0 | 0 | 3 | CC26 |
+| AI405 | Robotics and Drones | 2 | 0 | 0 | 2 | CC27 |
+| AI407 | Natural Language Processing | 3 | 0 | 0 | 3 | CC28 |
+| - | Elective 5 | 3 | 0 | 0 | 3 | E5/DSE |
+| AI481 | Robotics and Drones Lab | 0 | 0 | 3 | 2 | CC-L16 |
+| AI491 | Minor Project | 0 | 0 | 6 | 3 | ITL/E |
+| AI493 | Industrial Training | 0 | 0 | 10 | 5 | MP1/E |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+### SEMESTER VIII (2023-2027 Batch)
+| Course Code | Course Name | L | T | P | Credits | Type |
+|------------|-------------|---|---|---|----------|------|
+| AI490 | Seminar | 0 | 0 | 3 | 2 | S/E |
+| AI492 | Major Project | 0 | 0 | 16 | 8 | I/E |
+| AI494 | Internship | 0 | 0 | 30 | 15 | MP2/E |
+| GP | General Proficiency | - | - | - | Non Credit | - |
+**Total Credits: 25**
+
+**GRAND TOTAL OF CREDITS: 200**
+
+### Important Notes (Applicable to 2023-2027 Batch Only):
+1. Industrial Training:
+   - To be completed individually after third year during summer break
+   - Minimum duration: 4 weeks
+   - Evaluation as per University Examination in VII semester
+
+2. Seminar Requirements:
+   - Individual study and presentation on latest research paper in specialized area
+   - Evaluation as per University Examination Rules
+
+3. Internship Details:
+   - To be completed individually during 8th semester
+   - Minimum duration: 4-6 months
+   - Evaluation as per University Examination Rules
+
+4. Project Information:
+   - Minor and Major Projects to be completed in groups
+   - Evaluation as per University Examination Rules
+   - USICT will provide mentor/supervisor for all projects
+
+### Available Electives (2023-2027 Batch)
+[List of electives and their details are included in the original document]
+
+### Course Type Abbreviations:
+- AI: Artificial Intelligence
+- SEC: Skill Enhancement Course
+- CC: Core Course from USICT
+- E: Elective from USICT
+- GE: General Elective from related discipline
+- CC-L: Core Course Lab from USICT
+- GE-L: General Elective Lab
+- OE: Open Elective
+- AECC: Ability Enhancement Compulsory Course
+- DSE: Discipline Specific Course

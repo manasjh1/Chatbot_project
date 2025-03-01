@@ -1,0 +1,168 @@
+### Integrated B.Tech - M.Tech (ICT) Programme 2023-2028
+
+**University:** Gautam Buddha University, Greater Noida, U.P., India
+**Department:** Information and Communication Technology
+
+This document outlines the semester-wise structure for the Integrated B.Tech - M.Tech (ICT) program for the batch 2023-2028, with a specialization in Artificial Intelligence and Robotics.
+
+---
+
+## **Semester I** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **CY101/PH102:** Engineering Chemistry/Physics *(4 Credits)*
+2. **MA101:** Mathematics - I *(4 Credits)*
+3. **CE101:** Engineering Mechanics *(3 Credits)*
+4. **CS101:** Computer Programming - I *(2 Credits)*
+5. **EC101/EE102:** Basic Electronics/Electrical Technology *(2 Credits)*
+6. **HU101:** English Proficiency *(2 Credits)*
+7. **SS101:** Human Values & Buddhist Ethics *(2 Credits)*
+8. **CY103/PH104:** Chemistry/Physics Lab *(1 Credit)*
+9. **CE103:** Engineering Graphics Lab *(2 Credits)*
+10. **CS181:** Computer Programming Lab - I *(2 Credits)*
+11. **EC181/EE104:** Electronics/Electrical Tech Lab *(1 Credit)*
+12. **GP101:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester II** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **PH102/CY101:** Physics/Chemistry *(4 Credits)*
+2. **MA102:** Mathematics - II *(4 Credits)*
+3. **CE106:** Ecology and Environment *(3 Credits)*
+4. **CS102:** Computer Programming - II *(2 Credits)*
+5. **EE102/EC101:** Electrical Tech/Basic Electronics *(2 Credits)*
+6. **HU102:** Professional Communication *(2 Credits)*
+7. **SS102:** History of Science & Technology *(2 Credits)*
+8. **PH104/CY103:** Physics/Chemistry Lab *(1 Credit)*
+9. **CS182:** Computer Programming Lab - II *(2 Credits)*
+10. **EE104/EC181:** Electrical Tech/Basic Electronics Lab *(1 Credit)*
+11. **ME102:** Workshop Practices *(2 Credits)*
+12. **GP102:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester III** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **MA201:** Quantitative Techniques *(4 Credits)*
+2. **EC201:** Digital Electronics *(3 Credits)*
+3. **CS201:** Internet Technology *(3 Credits)*
+4. **CS203:** Operating System *(3 Credits)*
+5. **CS205:** Data Structure & Algorithms *(3 Credits)*
+6. **CS207:** System Analysis and Design *(3 Credits)*
+7. **EC281:** Digital Electronics Lab *(2 Credits)*
+8. **CS281:** Internet Technology Lab *(2 Credits)*
+9. **CS283:** Data Structure and Algorithms Lab *(2 Credits)*
+10. **GP201:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester IV** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **MA202:** Numerical Methods of Analysis *(4 Credits)*
+2. **EC210:** Principles of Communication *(3 Credits)*
+3. **CS202:** Software Engineering *(3 Credits)*
+4. **CS204:** Discrete Structure *(4 Credits)*
+5. **CS206:** Database Management System *(3 Credits)*
+6. **CS208:** Principles of Programming Language *(2 Credits)*
+7. **EC282:** Analog Communication Lab *(2 Credits)*
+8. **CS282:** Software Engineering Lab *(2 Credits)*
+9. **CS284:** DBMS Lab *(2 Credits)*
+10. **GP202:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester V** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **CS301:** Theory of Automata *(4 Credits)*
+2. **CS303:** Web Development *(4 Credits)*
+3. **CS305:** Computer Graphics *(4 Credits)*
+4. **CS307:** Analysis and Design of Algorithms *(4 Credits)*
+5. **CS309:** Computer Organization & Architecture *(3 Credits)*
+6. **ME311:** Principles of Technology Management *(2 Credits)*
+7. **CS381:** Web Development Lab *(2 Credits)*
+8. **CS383:** Computer Graphics Lab *(2 Credits)*
+9. **GP301:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester VI** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **CS302:** Distributed Operating System *(4 Credits)*
+2. **CS304:** Concepts of Artificial Intelligence *(4 Credits)*
+3. **CS306:** Advanced Computer Architecture *(4 Credits)*
+4. **CS308:** Computer Networks *(4 Credits)*
+5. **EC304:** Microprocessor and Interfacing *(3 Credits)*
+6. **ME312:** Entrepreneurship & Innovation *(2 Credits)*
+7. **EC384:** Microprocessor & Interfacing Lab *(2 Credits)*
+8. **CS382:** Computer Networks Lab *(2 Credits)*
+9. **GP302:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester VII** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **SS401:** Social Aspects of Engineering *(3 Credits)*
+2. **CS401:** Compiler Design *(4 Credits)*
+3. **CS403:** Object-Oriented Analysis *(3 Credits)*
+4. **CS405:** Formal Methods *(4 Credits)*
+5. **Elective 1:** *(3 Credits)*
+6. **CS481:** Compiler Design Lab *(2 Credits)*
+7. **CS491:** Seminar *(2 Credits)*
+8. **CS493:** Minor Project *(4 Credits)*
+9. **GP401:** General Proficiency *(1 Credit)*
+
+**Total:** 26 Credits
+
+---
+
+## **Semester VIII** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **MA402:** Simulation & Modeling *(4 Credits)*
+2. **CS406:** Soft Computing Techniques *(3 Credits)*
+3. **CS408:** AI Programming Languages *(3 Credits)*
+4. **Elective 2:** *(3 Credits)*
+5. **Elective 3:** *(3 Credits)*
+6. **CS484:** AI Programming Lab *(2 Credits)*
+7. **CS492:** Major Project *(5 Credits)*
+8. **GP402:** General Proficiency *(1 Credit)*
+
+**Total:** 24 Credits
+
+---
+
+### **Summer Semester (Post-Semester VIII)**
+1. **CS490:** Project *(10 Credits)*
+
+**Total:** 10 Credits
+
+---
+
+## **Semester IX** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **CS505:** Expert System *(3 Credits)*
+2. **CS503:** Research Techniques in ICT *(3 Credits)*
+3. **Elective 4:** *(3 Credits)*
+4. **Elective 5:** *(3 Credits)*
+5. **CS583:** Expert System Design Lab *(2 Credits)*
+6. **CS591:** Dissertation Part - I *(7 Credits)*
+7. **GP501:** General Proficiency *(1 Credit)*
+
+**Total:** 22 Credits
+
+---
+
+## **Semester X** (For Integrated B.Tech - M.Tech ICT 2023-2028)
+1. **CS590:** Dissertation Part - II *(21 Credits)*
+2. **GP502:** General Proficiency *(1 Credit)*
+
+**Total:** 22 Credits
+
+---
+
+### **Grand Total Credits:** 260
+
+**This program is specifically designed for Integrated B.Tech - M.Tech in Information and Communication Technology batch 2023-2028 with a specialization in Artificial Intelligence and Robotics.**
+

@@ -1,0 +1,441 @@
+**Public Notice: UGC Regulations on Academic Integrity and Plagiarism**  
+
+**Reference:** No. F. 1-18/2010 (CPP-II)  
+**Date:** 1st September 2017  
+
+The University Grants Commission (UGC) constituted a committee of experts to address the issue of plagiarism in higher education. The committee's objective was to establish institutional mechanisms to prevent plagiarism and promote academic integrity across educational institutions in the country.  
+
+The primary goals of these regulations are:  
+- **Promotion of Academic Research:** Encourage original research work.  
+- **Deterrence from Plagiarism:** Develop systems for detecting and preventing plagiarism.  
+
+The committee emphasized the importance of adopting a broad and comprehensive approach by implementing effective systems and checks to address plagiarism.  
+
+**Draft Regulations:**  
+The draft for the *"University Grants Commission (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Education Institutions) Regulations, 2017"* has been prepared for review.  
+
+**Call for Feedback:**  
+Stakeholders are invited to provide observations and suggestions regarding the draft regulations.  
+
+**Submission Details:**  
+- **Email:** pgmhei.2017@gmail.com  
+- **Deadline:** 30th September 2017  
+
+**Issued by:**  
+*(P.K. Thakur)*  
+**Secretary, UGC**  
+
+---
+
+**University Grants Commission (UGC)**  
+**Promotion of Academic Integrity and Prevention of Plagiarism in Higher Education Institutions Regulations, 2017**  
+
+### **Notification**  
+
+**Preamble:**  
+The University Grants Commission (UGC), established under the UGC Act of 1956, is responsible for maintaining and coordinating the standards of higher education across India.  
+
+The assessment of academic and research work—whether by students, faculty, researchers, or staff—plays a vital role in determining the quality and integrity of educational outcomes. Such work is presented in various forms, including:  
+- Essays and assignments  
+- Term papers and project reports  
+- Coursework, theses, and dissertations  
+- Research papers, policy papers, and book chapters  
+- Full-length books and computer programs  
+
+This academic output reflects the institution's commitment to originality, innovation, and intellectual honesty. To uphold these standards, the UGC introduces the following regulations.  
+
+---
+
+### **1. Title, Application, and Commencement**  
+- **Title:** University Grants Commission (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Educational Institutions) Regulations, 2017.  
+- **Application:** Applies to all students, researchers, faculty, and staff at Higher Educational Institutions (HEIs) in India.  
+- **Effective Date:** These regulations will come into force upon their publication in the Official Gazette.  
+
+---
+
+### **2. Definitions**  
+
+**a. Academic Misconduct Panel (AMP):**  
+A body constituted to investigate allegations of plagiarism.  
+
+**b. Academic Integrity:**  
+The practice of intellectual honesty while proposing, performing, or reporting research and academic activities that result in the creation of intellectual property.  
+
+**c. Author:**  
+Any student, faculty member, researcher, or staff member of an HEI who claims authorship of a work.  
+
+**d. College:**  
+An institution that offers recognized courses of study for obtaining qualifications from a university.  
+
+**e. Commission:**  
+The University Grants Commission (UGC) established under the UGC Act, 1956.  
+
+**f. Degree:**  
+Any academic qualification recognized and approved by the Central Government as per the provisions of the UGC Act, 1956.  
+
+**g. Faculty:**  
+Individuals involved in teaching or guiding students in any capacity—regular, ad-hoc, guest, temporary, or visiting.  
+
+**h. Higher Educational Institution (HEI):**  
+An institution offering higher education beyond twelve years of schooling. This includes universities, deemed-to-be universities, colleges, institutions of national importance, or any constituent unit thereof.  
+
+**i. Information:**  
+Includes data, messages, text, images, sound, voice, software, databases, microfilm, and computer-generated microfiche.  
+
+**j. Notification:**  
+A formal communication published in the Official Gazette.  
+
+**k. Plagiarism:**  
+The act of using someone else's work without proper acknowledgment, including:  
+- **Data Plagiarism:** Using datasets without permission or proper citation.  
+- **Self-Plagiarism:** Reusing one's previously published work without proper disclosure.  
+
+**l. Programme:**  
+A course of study that leads to an academic degree or diploma.  
+
+**m. Researcher:**  
+An individual conducting academic or scientific research within a higher education institution.  
+
+**n. Script:**  
+Includes research papers, theses, studies, project reports, assignments, dissertations, or any other work submitted for assessment or publication—whether in print or electronic form—by students, faculty, or staff of a Higher Educational Institution (HEI).  
+*Note:* This excludes answer scripts submitted in response to examination questions.  
+
+**o. Source:**  
+Refers to published primary or secondary material, including:  
+- Written information and opinions from scholars, public figures, or practitioners  
+- Data and information in electronic formats such as audio, video, image, or text  
+- Defined in accordance with Section 2(r)(v) of the Information Technology Act, 2000  
+
+**p. Staff:**  
+All non-teaching personnel employed in an HEI, whether on a regular, temporary, contractual, or outsourced basis.  
+
+**q. Student:**  
+An individual formally admitted to a program of study—whether full-time, part-time, or through distance learning—at an HEI.  
+
+**r. University:**  
+An institution established or recognized under a Central, State, or Provincial Act, including institutions deemed to be universities.  
+
+**s. Year:**  
+The academic session during which an act of plagiarism is committed.  
+
+*Note:* Terms not explicitly defined here will carry the meaning assigned to them in the University Grants Commission Act, 1956.  
+
+---
+
+### **3. Objectives**  
+
+3.1 **Promote Academic Integrity:**  
+To create awareness among students, researchers, faculty, and staff about responsible research practices, proper attribution, and academic ethics to prevent plagiarism.  
+
+3.2 **Establish Institutional Mechanisms:**  
+To implement educational programs and training sessions that instill responsible conduct in research, study, and academic activities.  
+
+3.3 **Develop Detection and Prevention Systems:**  
+To set up systems for plagiarism detection and establish mechanisms to penalize instances of academic misconduct.  
+
+---
+
+### **4. Duties of Higher Educational Institutions (HEIs)**  
+
+All HEIs must implement the prescribed mechanisms to:  
+- Raise awareness about ethical research practices  
+- Promote academic integrity across educational and research activities  
+- Establish procedures to deter plagiarism  
+
+---
+
+### **5. Awareness Programs and Training**  
+
+**(a) Instruction on Proper Attribution:**  
+HEIs must guide students, faculty, and staff on correctly attributing sources, seeking permission when needed, and acknowledging sources per academic standards.  
+
+**(b) Regular Awareness Initiatives:**  
+Institutions should conduct seminars and workshops every semester to:  
+- Promote ethical conduct in research and academic writing  
+- Educate participants about the significance of academic integrity  
+
+**(c) Curriculum Integration:**  
+HEIs must:  
+1. Introduce academic integrity as a mandatory course for undergraduate and postgraduate students.  
+2. Include research ethics and responsible conduct of research in the coursework for M.Phil. and Ph.D. programs.  
+3. Cover research integrity in faculty orientation and refresher programs.  
+4. Train researchers, faculty, and students to use plagiarism detection tools and reference management software.  
+5. Set up a dedicated facility with modern plagiarism detection tools.  
+6. Encourage researchers to register with international research databases.  
+
+---
+
+### **6. Curbing Plagiarism**  
+
+**(a) Technological Measures:**  
+HEIs should implement plagiarism detection software to screen theses, dissertations, research papers, and other academic documents before submission.  
+
+**(b) Student Undertaking:**  
+All students submitting academic work must provide an undertaking stating:  
+- The submitted work is their own and free of plagiarism.  
+- The document has been checked with plagiarism detection software approved by the HEI.  
+
+**(c) Faculty Access:**  
+HEIs must grant plagiarism detection tool access to faculty, researchers, and M.Phil./Ph.D. students for self-checking their work.  
+
+**(d) Plagiarism Certification:**  
+The student’s undertaking should confirm that the document has been scanned through an HEI-approved plagiarism detection tool.  
+
+---
+
+### **6. Institutional Policies and Procedures**  
+
+**(e)** **Plagiarism Policy Development:**  
+Every HEI must draft a plagiarism policy and get it approved by the relevant statutory bodies of the university.  
+
+**(f)** **Supervisor Certification:**  
+Supervisors must submit a certificate stating that the research conducted under their supervision is plagiarism-free.  
+
+**(g)** **Submission to INFLIBNET:**  
+All HEIs must submit soft copies of M.Phil. and Ph.D. theses and dissertations to INFLIBNET after awarding degrees. These documents will be hosted in the "Shodh Ganga e-repository."  
+
+**(h)** **Institutional Repository:**  
+HEIs must maintain an institutional repository on their official website, containing:  
+- Dissertations and theses  
+- Research papers and publications  
+- Other in-house publications  
+
+---
+
+### **7. Similarity Checks: Exclusions**  
+
+The following are excluded from plagiarism checks:  
+1. **Properly Cited Work:** Quoted work that is either in the public domain or reproduced with proper attribution and permission.  
+2. **Standard Academic Sections:** References, bibliographies, tables of contents, prefaces, and acknowledgements.  
+3. **Minor Similarities:** Insignificant matches of minor nature.  
+4. **Generic Content:** Commonly used terms, laws, symbols, and standard equations.  
+
+---
+
+### **8. Zero-Tolerance Policy in Core Areas**  
+
+The core components of research must reflect original ideas and adhere to a zero-tolerance policy for plagiarism.  
+- If plagiarism is found in core work, the Plagiarism Disciplinary Authority (PDA) will impose the maximum penalty.  
+- **Core components include:** Abstract, hypothesis, observations, results, conclusions, and recommendations.  
+
+---
+
+### **9. Plagiarism Levels for Non-Core Areas**  
+
+Plagiarism in non-core sections is categorized based on the level of similarity:  
+- **Level 1:** Similarities between **10% and 40%**  
+- **Level 2:** Similarities between **40% and 60%**  
+- **Level 3:** Similarities above **60%**  
+
+*Note:* Similarities below **10%** are excluded.  
+
+---
+
+### **10. Detection, Reporting, and Handling of Plagiarism**  
+
+**Reporting Plagiarism:**  
+- Any academic community member with valid proof can report suspected plagiarism to the designated university authority.  
+- The university must refer these cases to the Academic Misconduct Panel (AMP).  
+
+**Initiating Investigations:**  
+- Authorities can also initiate investigations *suo motu* (on their own) or based on an external examiner's findings.  
+
+---
+
+### **11. Academic Misconduct Panel (AMP)**  
+
+**Purpose:** To investigate plagiarism allegations and recommend penalties.  
+
+**Composition:** Four senior academicians, including:  
+1. **Chairperson:** A senior academic leader (e.g., Dean or Pro-VC)  
+2. **Subject Expert:** From the discipline under investigation  
+3. **External Expert:** Nominated from outside the HEI  
+4. **Technical Expert:** Proficient in plagiarism detection tools  
+
+**Responsibilities:**  
+- Conduct investigations adhering to principles of natural justice.  
+- Assess the plagiarism level and recommend penalties.  
+- Submit the investigation report to the PDA within **45 days** of receiving the complaint.  
+- Provide a copy of the report to the accused individual(s).  
+
+---
+
+### **12. Plagiarism Disciplinary Authority (PDA)**  
+
+**Purpose:** To review the AMP’s findings and impose penalties after giving the accused an opportunity to present their defense.  
+
+**Composition:**  
+1. **Chairperson:** Head of the institution (e.g., Vice-Chancellor/Director)  
+2. **Academic Member:** Dean/Director of Academics or Research  
+3. **External Expert:** Senior academic from outside the institution  
+
+**Responsibilities:**  
+- Consider the AMP's recommendations.  
+- Provide the accused with a fair hearing.  
+- Make a final, binding decision regarding penalties.  
+
+---
+
+### **13. Penalties for Plagiarism**  
+
+Penalties apply only when academic misconduct is conclusively proven, all appeals are exhausted, and the accused has had a fair chance to defend themselves. Penalties vary based on:  
+- The level of plagiarism  
+- The academic level of the offender (UG, PG, Masters, M.Phil., Ph.D., or faculty)  
+
+---
+
+## **Plagiarism Policy: Penalties and Procedures**  
+
+When developing a policy document on plagiarism, HEIs must ensure that penalties correspond to the severity of the misconduct. Plagiarism, whether intentional or unintentional, can damage the academic integrity and social reputation of the individual involved. Therefore, all investigations and penalty decisions will be conducted confidentially to protect individuals from undue stigma.  
+
+---
+
+### **A. Penalties for Students**  
+
+The Plagiarism Disciplinary Authority (PDA), based on recommendations from the Academic Misconduct Panel (AMP), will impose penalties depending on the level of plagiarism:  
+
+1. **Level 1 (10% to 40% Similarity):**  
+   - The student will receive no marks or credit for the plagiarized work.  
+   - They must submit a revised version within **6 months**.  
+
+2. **Level 2 (40% to 60% Similarity):**  
+   - The student will receive no marks or credit for the plagiarized work.  
+   - They must submit a revised version **after 1 year** but **within 18 months**.  
+
+3. **Level 3 (Above 60% Similarity):**  
+   - The student will receive no marks or credit for the plagiarized work.  
+   - Their registration for that course will be **canceled**.  
+
+**Additional Notes:**  
+- **Repeat Offenses:** A student caught plagiarizing again will be penalized at one level higher than their previous offense.  
+- **Degree or Credit Already Obtained:** If plagiarism is discovered after the degree or credit has been awarded, the degree/credit will be **suspended** for a duration determined by the AMP and PDA.  
+
+---
+
+### **B. Penalties for Faculty, Staff, and Researchers**  
+
+The AMP and PDA will impose the following penalties based on the level of plagiarism detected:  
+
+1. **Level 1 (10% to 40% Similarity):**  
+   - The manuscript must be **withdrawn** from publication.  
+   - The individual cannot publish any work for **1 year**.  
+
+2. **Level 2 (40% to 60% Similarity):**  
+   - The manuscript must be **withdrawn** from publication.  
+   - The individual cannot publish for **2 years**.  
+   - They will lose **1 annual increment**.  
+   - They will be **barred from supervising** UG, PG, Master's, M.Phil., or Ph.D. students for **2 years**.  
+
+3. **Level 3 (Above 60% Similarity):**  
+   - The manuscript must be **withdrawn** from publication.  
+   - The individual cannot publish for **3 years**.  
+   - They will lose **2 successive annual increments**.  
+   - They will be **barred from supervising** UG, PG, Master's, M.Phil., or Ph.D. students for **3 years**.  
+
+**Additional Notes:**  
+- **Repeat Offenses:** Repeat offenders will face penalties **one level higher** than the previous violation.  
+   - If a **Level 3 offense** is repeated, the individual will be **dismissed** from the institution.  
+- **Benefits or Credits Already Obtained:** If plagiarism is discovered after benefits (e.g., promotions, research credits) have been granted, these benefits will be **suspended** for a duration determined by the AMP and PDA.  
+- **Plagiarism by Institutional Head:** If the head of the institution is found guilty of plagiarism, the **Competent Authority, Governing Board, or Governing Council** will take appropriate disciplinary action in accordance with these regulations.  
+
+---
+
+### **Key Principles**  
+
+- Penalties must match the severity of the plagiarism.  
+- Investigations must be fair, transparent, and confidential.  
+- The institution must uphold academic integrity while protecting individuals from undue harm.  
+
+---
+
+## Fellowship for GATE qualified students
+
+**University Grants Commission**  
+Bahadurshah Zafar Marg, New Delhi-110 002  
+
+**By Speed Post**  
+
+**No. F.43-2/2013(SA-III)**  
+**Dated:** March 2014  
+**Stamp Date:** 28 March 2014  
+
+**To**  
+The Registrar/Principal/Director  
+Gautam Buddha University  
+Greater Noida, District-Gautam Budh Nagar, Uttar Pradesh – 201 308  
+
+**Subject:** Re-implementation of the scheme of PG Scholarship for GATE Qualified Students for M.E./M.Tech at the end of UGC.  
+
+---
+
+**Dear Sir/Madam,**  
+
+With reference to the scheme of PG Scholarship for GATE Qualified Students for M.E./M.Tech, I am directed to inform you that the UGC has decided to **re-implement the scheme** for GATE Qualified students pursuing M.E./M.Tech. This decision was taken in the **Commission meeting held on 27/02/2014**.  
+
+**Yours faithfully,**  
+
+*(Signature)*  
+**(Monika)**  
+Education Officer  
+
+---
+
+**Contact Information:**  
+- **Phone:** 23236351, 23232701, 23237721, 23234116, 23230813, 23232317, 23236735, 23239437  
+
+---
+
+
+### **Document Title:**  
+**Society Renewal Certificate for Gautam Buddha University**  
+
+**Under:**  
+*Act No. 21 of 1860*  
+
+---
+
+### **Document Details:**  
+
+- **Certificate Number:** 02097/2022-2023  
+- **Renewal Number:** R/LUC/07509/2022-2023  
+- **File Number:** I-134894  
+- **Original Registration Year:** 2002-2003  
+
+---
+
+### **Society Information:**  
+
+- **Society Name:** Gautam Buddha Education Society  
+- **Registered Office Address:**  
+  Lal Bahadur Shastri Bhawan,  
+  Lucknow, Uttar Pradesh,  
+  **PIN Code:** 226001  
+
+---
+
+### **Renewal Details:**  
+
+- **Original Registration Certificate Number:** 818-2002-2003  
+- **Original Registration Date:** 20/07/2002  
+- **Renewal Validity Start Date:** 20/07/2022  
+- **Renewal Duration:** 5 years  
+- **Renewal Fee Paid:** ₹1100 (Received Successfully)  
+
+---
+
+### **Approval Information:**  
+
+- **Issued On:** 08/08/2022  
+- **Issued By:**  
+  **Deepak Kumar Tiwari** *(Registrar of Societies, Uttar Pradesh)*  
+- **Digital Signature:** 52E90EC82B3AE75971F0A3EC99DBF0A39E43186B  
+- **Signature Timestamp:** 08/08/2022 at 4:47 PM  
+- **Location:** Lucknow, Uttar Pradesh  
+
+---
+
+### **Issuing Authority:**  
+**Registrar of Societies, Uttar Pradesh**  
+
+---
+

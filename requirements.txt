@@ -1,0 +1,19 @@
+sentence-transformers==3.4.1
+langchain
+fastapi
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+groq
+-e .
+pymongo[srv]==3.11
+uvicorn
+python-multipart
+neo4j
+yake
+py2neo
+thefuzz[speedup]

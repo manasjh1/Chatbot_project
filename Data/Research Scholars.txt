@@ -1,0 +1,143 @@
+### Research Scholars | USICT
+
+#### **Batch 2020**
+
+1. **Madhu Sharma** *(Pursuing)*
+   - **Thesis Title:** Performance Enhancement of Artificial Intelligence-Based Recommendation Techniques for Health Care by Deep Learning
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+2. **Namisha Bhasin** *(Pursuing)*
+   - **Thesis Title:** Authentication using Keystroke Dynamics
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+3. **Priya Sharma** *(Pursuing)*
+   - **Thesis Title:** Analysis and Development of Anomaly Detection Techniques in IoT
+   - **Supervisor:** Prof. Sanjay Sharma
+
+4. **Roshan Lal** *(Pursuing)*
+   - **Thesis Title:** Design and Analysis of Different Perspectives for Signed Social Networks
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+5. **Vineet Kumar** *(Pursuing)*
+   - **Thesis Title:** Artificial Intelligence-Based Predictive Admission Model
+   - **Supervisor:** Dr. Arun Solanki
+
+6. **Vinod Kumar** *(Pursuing)*
+   - **Thesis Title:** *Pending*
+   - **Supervisor:** Dr. Anurag Singh Baghel
+
+7. **Indu** *(Awarded)*
+   - **Thesis Title:** Pesticides Spray and Reduction of Its Repetition Over the Crop Using Artificial Intelligence
+   - **Supervisor:** Dr. Anurag Singh Baghel
+
+8. **Pragya Tewari** *(Pursuing)*
+   - **Thesis Title:** Domain Adaptation for Hindi to English Neural Machine Translation
+   - **Supervisor:** Dr. Anurag Singh Baghel
+
+9. **Sandeep Kumar** *(Pursuing)*
+   - **Thesis Title:** Automatic Abstractive Text Summarization Model Using Artificial Intelligence Techniques
+   - **Supervisor:** Dr. Arun Solanki
+
+10. **Shobhit Mani Tiwari** *(Pursuing)*
+    - **Thesis Title:** QoS Scheme for Communication on VANETs for Detecting Messages
+    - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+11. **Bhawna Kankane** *(Pursuing)*
+    - **Thesis Title:** Reliability Analysis of Wireless Multihop Sensor Networks
+    - **Supervisor:** Dr. Sandeep Sharma
+
+12. **Prerna Ajmani** *(Pursuing)*
+    - **Thesis Title:** Medium Access Control Algorithms for Safety Messages in IoT Vehicles
+    - **Supervisors:** Dr. Neeta Singh & Dr. Poonam Verma
+
+---
+
+#### **Batch 2019**
+
+1. **Aditi Sakalle** *(Awarded)*
+   - **Thesis Title:** Design & Evaluation of a New Artificial Intelligence-Based Emotion Recognition Model Using EEG Signals
+   - **Supervisor:** Dr. Pradeep Tomar
+
+2. **Ashwini Kumar Verma** *(Pursuing)*
+   - **Thesis Title:** Feature-Based Malware Classification and Detection Using Machine Learning Techniques for Air-Gapped Network
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+3. **Harshit Bhardwaj** *(Awarded)*
+   - **Thesis Title:** Analysis and Evaluation of Computational Intelligence-Based Personality Prediction Classifier Using EEG Signals
+   - **Supervisor:** Dr. Pradeep Tomar
+
+4. **J. Amutha** *(Awarded)*
+   - **Thesis Title:** Computational Intelligence-Based Energy-Efficient Clustering Algorithm for Wireless Sensor Networks
+   - **Supervisors:** Prof. Sanjay Kumar Sharma & Dr. Sandeep Sharma
+
+5. **Manali Gupta** *(Awarded)*
+   - **Thesis Title:** Brain Tumor Prediction Using Machine Learning Algorithms
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+6. **Tarana Singh** *(Awarded)*
+   - **Thesis Title:** A Novel Smart Energy Management System Using IoT and Machine Learning for Smart City Power Management
+   - **Supervisors:** Prof. Sanjay Kumar Sharma & Dr. Arun Solanki
+
+7. **Uttam Sharma** *(Awarded)*
+   - **Thesis Title:** Design and Evaluation of a Biometric-Based Secure and Efficient Authentication Model Using Deep Learning
+   - **Supervisor:** Dr. Pradeep Tomar
+
+8. **Vaishnavi** *(Pursuing)*
+   - **Thesis Title:** Breast Cancer Detection Using Machine Learning
+   - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+9. **Zaineb Naaz** *(Pursuing)*
+   - **Thesis Title:** Data Aggregation and Processing Techniques for Energy-Efficient IoT
+   - **Supervisor:** Dr. Vidushi Sharma
+
+10. **Roshi Saxena** *(Awarded)*
+    - **Thesis Title:** Diabetes Mellitus Prediction Using Machine Learning Algorithm
+    - **Supervisor:** Prof. Sanjay Kumar Sharma
+
+11. **Monika Kashyap** *(Pursuing)*
+    - **Thesis Title:** Communication Process Models for IoT Systems and Devices
+    - **Supervisor:** Dr. Vidushi Sharma
+
+---
+
+#### **Batch 2018**
+
+1. **Gamini Joshi** *(Awarded)*
+   - **Thesis Title:** Design of a Trust-Based Model for IoT
+   - **Supervisor:** Dr. Vidushi Sharma
+
+---
+
+#### **Batch 2017**
+
+1. **Dimpal Tomar** *(Awarded)*
+   - **Thesis Title:** Development of a Machine Learning Model to Improve IoT-Based Smart Home Performance
+   - **Supervisor:** Dr. Pradeep Tomar
+
+2. **Manoj Sharma** *(Awarded)*
+   - **Thesis Title:** Design and Development of Printed Antennas for Future Wireless Applications
+   - **Supervisor:** Dr. Neeta Singh
+
+3. **Neeti Gupta** *(Awarded)*
+   - **Thesis Title:** Spectrum Efficient Techniques in IoT
+   - **Supervisor:** Dr. Vidushi Sharma
+
+4. **Niraj Agrawal** *(Awarded)*
+   - **Thesis Title:** Design of Multiband Planar Antennas for Automotive Applications
+   - **Supervisor:** Dr. Rajesh Mishra
+
+5. **Umesh Chandra Singh** *(Awarded)*
+   - **Thesis Title:** Design and Analysis of Substrate Integrated Waveguide Components
+   - **Supervisor:** Dr. Rajesh Mishra
+
+6. **Vartika Sharma** *(Awarded)*
+   - **Thesis Title:** Reliability Evaluation of Complex Communication Networks
+   - **Supervisor:** Dr. Rajesh Mishra
+
+---
+
+#### **Batch 2014 and Earlier**
+
+Research scholars from previous batches have significantly contributed to **AI, IoT, VLSI, and Wireless Networks**. Their **innovative research** has laid a strong foundation for **upcoming scholars**.
+
+**USICT** remains committed to supporting **cutting-edge research** that addresses **real-world challenges** and drives **technological innovation**.

@@ -1,0 +1,156 @@
+### Course Structure for B.Tech. (Electronics & Communication Engineering)
+**Session: 2024-2028**
+
+**University:** Gautam Buddha University, Greater Noida, U.P., India
+**Department:** Electronics & Communication Engineering (ECE)
+
+This document outlines the semester-wise structure for the **B.Tech. (ECE) Programme** for the session **2024-2028**.
+
+---
+
+## **Semester I** (Session 2024-2028)
+1. **MA101:** Engineering Mathematics-I *(4 Credits)*
+2. **PH102:** Engineering Physics *(4 Credits)*
+3. **EE102:** Basic Electrical Engineering *(4 Credits)*
+4. **ME101:** Engineering Mechanics *(4 Credits)*
+5. **ES101:** Environmental Science *(4 Credits)*
+6. **PH104:** Engineering Physics Lab *(1 Credit)*
+7. **EE104:** Basic Electrical Engineering Lab *(1 Credit)*
+8. **EN151:** Language Lab *(1 Credit)*
+9. **ME102:** Workshop Practices *(2 Credits)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 25
+
+---
+
+## **Semester II** (Session 2024-2028)
+1. **MA102:** Engineering Mathematics-II *(4 Credits)*
+2. **CY101:** Engineering Chemistry *(4 Credits)*
+3. **CS101:** Fundamentals of Computer Programming *(4 Credits)*
+4. **EC101:** Basic Electronics Engineering *(4 Credits)*
+5. **BS101:** Human Values and Buddhist Ethics *(2 Credits)*
+6. **CE103:** Engineering Graphics *(2 Credits)*
+7. **CY103:** Engineering Chemistry Lab *(1 Credit)*
+8. **CS181:** Computer Programming Lab *(1 Credit)*
+9. **EC181:** Basic Electronics Engineering Lab *(1 Credit)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 23
+
+---
+
+## **Semester III** (Session 2024-2028)
+1. **MA201:** Engineering Mathematics-III *(4 Credits)*
+2. **EC221:** Fundamentals of Digital Electronic Circuits *(4 Credits)*
+3. **EC223:** Network Analysis *(4 Credits)*
+4. **EC225:** Introduction to Signals and Systems *(4 Credits)*
+5. **EC227:** Analog Electronic Circuits *(4 Credits)*
+6. **EC271:** Analog Electronic Circuits Lab *(1 Credit)*
+7. **EC273:** Digital Electronic Circuits Lab *(1 Credit)*
+8. **EC275:** Network Analysis Lab *(1 Credit)*
+9. **EC277:** PCB Design Lab *(1 Credit)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 24
+
+---
+
+## **Semester IV** (Session 2024-2028)
+1. **EC222:** Analog Communication *(4 Credits)*
+2. **EC224:** Linear Integrated Circuits *(4 Credits)*
+3. **EC226:** Microprocessors and Microcontrollers *(4 Credits)*
+4. **EC228:** Electromagnetic Field Theory *(4 Credits)*
+5. **EC220:** Data Structures *(4 Credits)*
+6. **EC272:** Communication Lab *(1 Credit)*
+7. **EC274:** Microprocessor & Microcontroller Lab *(1 Credit)*
+8. **EC276:** Analog Integrated Circuits Lab *(1 Credit)*
+9. **EC278:** Data Structures Lab *(1 Credit)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 24
+
+---
+
+## **Semester V** (Session 2024-2028)
+1. **EC321:** Digital Logic Design *(4 Credits)*
+2. **EC323:** Digital Communication *(4 Credits)*
+3. **EC325:** Antenna & Wave Propagation *(4 Credits)*
+4. **EC327:** Control System *(4 Credits)*
+5. **Elective 1:** *(3 Credits)*
+6. **EC371:** Control System Lab *(1 Credit)*
+7. **EC373:** Digital Communication Lab *(1 Credit)*
+8. **EC375:** Digital Logic Design Lab *(2 Credits)*
+9. **EC377:** Antenna & Wave Propagation Lab *(1 Credit)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 24
+
+---
+
+## **Semester VI** (Session 2024-2028)
+1. **EC320:** Microwave and Radar Engineering *(4 Credits)*
+2. **EC322:** Digital Signal Processing and Applications *(4 Credits)*
+3. **EC324:** Fundamentals of Microelectronics *(4 Credits)*
+4. **EC326:** Data Communication Network *(3 Credits)*
+5. **EC328:** IC Fabrication Technology *(3 Credits)*
+6. **Elective 2:** *(3 Credits)*
+7. **EC372:** Microwave Engineering Lab *(1 Credit)*
+8. **EC374:** Digital Signal Processing Lab *(1 Credit)*
+9. **EC376:** Simulation Lab *(1 Credit)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 24
+
+**Note:** Industrial Training of **minimum 4 weeks** is **mandatory** after Semester VI.
+
+---
+
+## **Semester VII** (Session 2024-2028)
+1. **EC421:** Wireless Communication *(3 Credits)*
+2. **EC423:** Fiber Optic Communication *(3 Credits)*
+3. **EC425:** VLSI Design *(3 Credits)*
+4. **Elective 3:** *(3 Credits)*
+5. **Elective 4:** *(3 Credits)*
+6. **EC471:** Fiber Optic Communication Lab *(1 Credit)*
+7. **EC473:** VLSI Design Lab *(1 Credit)*
+8. **EC491:** Industrial Training *(3 Credits)*
+9. **EC493:** Minor Project *(5 Credits)*
+10. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 25
+
+---
+
+## **Semester VIII** (Session 2024-2028)
+1. **EC490:** Seminar *(2 Credits)*
+2. **EC492:** Internship *(15 Credits)* *(Minimum 4 months)*
+3. **EC494:** Major Project *(8 Credits)*
+4. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 25
+
+**Grand Total Credits:** 194
+
+---
+
+### **Electives (Session 2024-2028)**
+- **EC343:** Electronic Instrumentation and Measurements *(3 Credits)*
+- **EC345:** Digital Image Processing *(3 Credits)*
+- **EC347:** Electronic Commerce *(3 Credits)*
+- **EC346:** Reliability Engineering *(3 Credits)*
+- **EC340:** Secure Communication *(3 Credits)*
+- **EC344:** Broadband Networks *(3 Credits)*
+- **EC342:** RF Engineering *(3 Credits)*
+- **CS340:** Python Programming *(3 Credits)*
+- **PHUD414:** Fundamentals of Electro-optics and Photonics *(3 Credits)*
+- **EC441:** Electronic Switching Systems *(3 Credits)*
+- **EC443:** Introduction to Robotics *(3 Credits)*
+- **EC445:** Television Engineering *(3 Credits)*
+- **EC447:** Fundamentals of Internet of Things *(3 Credits)*
+- **CS425:** Artificial Neural Network & Fuzzy Logic *(3 Credits)*
+- **CS427:** Evolutionary Computation *(3 Credits)*
+- **EC455:** Mobile Communication *(3 Credits)*
+- **EC457:** Satellite Communication *(3 Credits)*
+
+*This course structure is designed exclusively for the **B.Tech. (ECE) Programme** for the **Session 2024-2028**.*

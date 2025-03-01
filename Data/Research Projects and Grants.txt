@@ -1,0 +1,35 @@
+### Research Projects and Grants | USICT
+
+#### **Ongoing Project**
+
+**Team Members:**
+- **Principal Investigator:** Nain, V.  
+- **Co-Principal Investigator:** Tomar, P.
+
+**Research Project Title:**
+- *High Throughput Design, Synthesis, and Validation of TALENs for Targeted Genome Engineering*
+
+**Funding Agency:**
+- *Department of Biotechnology, Ministry of Science and Technology, Government of India, New Delhi, India*
+
+**Grant Amount:**
+- **Rs. 86,28,100/-**
+
+---
+
+### **Project Description**
+
+With advancements in genome editing technologies like Meganuclease, ZFN, TALEN, and CRISPR, it is now possible to introduce tailored changes into eukaryotic genomes at specific gene locations. However, challenges such as:
+
+- **Intellectual Property Restrictions**: IPRs often belong to foreign organizations.
+- **High Costs**: Synthesis costs remain prohibitively high.
+- **Off-Target Activity**: Unintended modifications pose significant risks.
+
+The objective of this research project is to **develop synthetic gene sequences and efficient methods** for **custom-designed TALEN synthesis**. The research team aims to:
+
+1. **Design high-throughput TALEN sequences** tailored for specific genome editing applications.
+2. **Develop robust analysis techniques** to monitor **genome-wide activity**.
+3. **Ensure specificity** in gene editing through **next-generation sequencing (NGS)** methodologies.
+
+This initiative represents a **significant step forward** in making genome editing technologies more **accessible and cost-effective** for **commercial applications** in **India and beyond**.
+

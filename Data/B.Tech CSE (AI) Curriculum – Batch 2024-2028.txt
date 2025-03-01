@@ -1,0 +1,60 @@
+**B.Tech CSE (AI) Curriculum – Batch 2024–2028 Only**
+
+The following curriculum applies **exclusively to students enrolled in the B.Tech CSE (AI) program for the 2024–2028 academic batch.**
+
+---
+
+### **Semester I (2024–28 Batch Only)**
+
+| **S.No.** | **Course Code** | **Course Name**                        | **L** | **T** | **P** | **Credits** | **Type**       |
+|-----------|----------------|---------------------------------------|-------|-------|-------|------------|----------------|
+| 1         | MA101          | Engineering Mathematics-I             | 3     | 1     | 0     | 4          | GE1            |
+| 2         | CS105          | Introduction to Artificial Intelligence | 3     | 1     | 0     | 4          | GE2            |
+| 3         | EC101          | Basic Electronics Engineering         | 3     | 1     | 0     | 4          | CC1/FC         |
+| 4         | EN101          | English Proficiency                    | 2     | 0     | 0     | 2          | CC2/FC         |
+| 5         | PH102          | Engineering Physics                    | 3     | 1     | 0     | 4          | GE3/FC         |
+| 6         | AI182          | Introduction to Python                | 2     | 0     | 0     | 2          | OE1/AECC      |
+| 7         | ME102          | Engineering Mechanics                  | 1     | 0     | 2     | 2          | GE-L1         |
+| 8         | EE102          | Basic Electrical Engineering Lab      | 0     | 0     | 2     | 1          | GE-L2         |
+| 9         | CS101          | Fundamentals of Computer Programming   | 0     | 0     | 2     | 1          | CC-L1/SEC     |
+| 10        | ME101          | Workshop Practice                      | 0     | 0     | 2     | 1          | GE-L3         |
+| 11        | GP             | General Proficiency (Non-Credit)       | -     | -     | -     | -          | Non-Credit    |
+
+**Total Hours and Credits:** 17 (L) + 4 (T) + 8 (P) = **25 Credits**
+
+---
+
+### **Semester II (2024–28 Batch Only)**
+
+| **S.No.** | **Course Code** | **Course Name**                          | **L** | **T** | **P** | **Credits** | **Type**       |
+|-----------|----------------|-----------------------------------------|-------|-------|-------|------------|----------------|
+| 1         | MA102          | Engineering Mathematics-II              | 3     | 1     | 0     | 4          | GE4            |
+| 2         | AI102          | Introduction to Python                  | 2     | 0     | 0     | 2          | CC3/SEC        |
+| 3         | EE104          | Basic Electrical Engineering            | 3     | 1     | 0     | 4          | GE5            |
+| 4         | ES101          | Environmental Studies                    | 3     | 1     | 0     | 4          | GE6            |
+| 5         | AI104          | Data Structures and Algorithms           | 3     | 1     | 0     | 4          | OE2/AECC      |
+| 6         | CE103          | Engineering Graphics Lab                | 2     | 0     | 0     | 2          | CC4            |
+| 7         | PH104          | Engineering Physics Lab                 | 0     | 0     | 2     | 1          | GE-L4         |
+| 8         | CS181          | Computer Programming Lab                | 0     | 0     | 2     | 1          | CC-L2/SEC     |
+| 9         | AI184          | Data Structures and Algorithms Lab       | 1     | 0     | 2     | 2          | GE-L5         |
+| 10        | EC181          | Basic Electronics Engineering Lab       | 0     | 0     | 2     | 1          | CC-L3         |
+| 11        | GP             | General Proficiency (Non-Credit)         | -     | -     | -     | -          | Non-Credit    |
+
+**Total Hours and Credits:** 17 (L) + 4 (T) + 8 (P) = **25 Credits**
+
+---
+
+### **Key Notes (2024–28 Batch Only)**
+
+- **L**: Lectures  
+- **T**: Tutorials  
+- **P**: Practicals  
+- **GE**: General Elective  
+- **CC**: Core Course  
+- **FC**: Foundation Course  
+- **OE**: Open Elective  
+- **AECC**: Ability Enhancement Compulsory Course  
+- **SEC**: Skill Enhancement Course  
+
+**This curriculum is designed specifically for the B.Tech CSE (AI) program for the academic batch of 2024–2028.**
+

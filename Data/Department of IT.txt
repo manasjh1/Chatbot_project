@@ -1,0 +1,135 @@
+### Department of IT: Comprehensive Programs Overview
+
+The Department of Information Technology offers a wide range of academic programs designed to equip students with advanced knowledge and skills in various domains such as Data Science, Machine Learning, Artificial Intelligence, and Information and Communication Technology. The following sections provide detailed insights into each program with proper mention of the department.
+
+---
+
+## **Undergraduate Programs (Department of IT)**
+
+### **B.Tech. in Information Technology with Specialization in Data Science (AI) and Machine Learning (ML)**
+
+**Description:**
+The Department of IT offers a **B.Tech. in Information Technology** with a specialization in **Data Science and Machine Learning**, focusing on equipping students with skills in **data analysis, machine learning, and AI techniques**. The curriculum emphasizes **big data processing, predictive modeling, and algorithm development**. Students gain **hands-on experience** with tools such as **Python, TensorFlow**, and **cloud platforms**, preparing them for **careers in AI, data analytics, and software development**.
+
+**Total Intake:** 60 seats
+
+**Eligibility:**
+- 10+2 with **Physics and Mathematics** as compulsory subjects.
+- Minimum **45% marks** (40% for SC/ST) in aggregate.
+- **AICTE rules** apply.
+
+---
+
+### **B.Tech. in Information Technology with Specialization in Artificial Intelligence (AI) and Machine Learning (ML)**
+
+**Description:**
+The **Department of IT** provides a **B.Tech. in IT** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. The program develops advanced knowledge in **AI algorithms, ML techniques, and data-driven decision-making**. The curriculum covers **deep learning, natural language processing (NLP)**, and **predictive analytics**, with **practical projects and industry exposure**.
+
+**Total Intake:** 60 seats
+
+**Eligibility:**
+- 10+2 with **Physics and Mathematics** as compulsory subjects.
+- Minimum **45% marks** (40% for SC/ST) in aggregate.
+- **AICTE rules** apply.
+
+---
+
+### **B.Tech. in Information Technology**
+
+**Description:**
+The **B.Tech. in IT** program focuses on the **design, development, and management of computer systems and applications**. The curriculum covers **programming, data structures, databases, networking, and cybersecurity**, with practical experience through **labs, projects, and internships**.
+
+**Total Intake:** 60 seats
+
+**Eligibility:**
+- 10+2 with **Physics and Mathematics** as compulsory subjects.
+- Minimum **45% marks** (40% for SC/ST) in aggregate.
+- **AICTE rules** apply.
+
+---
+
+### **Bachelor of Computer Application (BCA)**
+
+**Description:**
+The **BCA program** from the **Department of IT** blends **theoretical knowledge with practical applications** in **computer science**. The curriculum includes **laboratory work, software development projects**, and **core computer applications**.
+
+**Total Intake:** 40 seats
+
+**Eligibility:**
+- 10+2 with **Mathematics**.
+- Minimum **50% marks** (45% for SC/ST).
+- Direct admission based on **merit in qualifying examination**.
+
+---
+
+## **Postgraduate Programs (Department of IT)**
+
+### **M.Tech. in IT with Specialization in Data Science and Machine Learning**
+
+**Description:**
+The **Department of IT** offers an **M.Tech. in IT** focusing on **advanced computational techniques, data analysis**, and **AI-driven solutions**. The program includes **machine learning algorithms, deep learning**, and **statistical modeling** with **practical applications**.
+
+**Total Intake:** 20 seats
+
+**Eligibility:**
+- **B.E./B.Tech.** in relevant disciplines (e.g., **CS, IT, AI, ECE, EE**) or **M.Sc./MCA**.
+- Minimum **55% marks** (50% for SC/ST).
+
+---
+
+### **M.Tech. in Information and Communication Technology (ICT)**
+
+**Description:**
+The **M.Tech. in ICT** focuses on **computing, telecommunications**, and **electronics**. It covers **data networks, machine learning**, and **IoT** for **research, development**, and **tech leadership**.
+
+**Total Intake:** 20 seats
+
+**Eligibility:**
+- **B.E./B.Tech.** in relevant disciplines (e.g., **CS, IT, AI, ECE, EE**) or **M.Sc./MCA**.
+- Minimum **55% marks** (50% for SC/ST).
+
+---
+
+### **MCA with Specialization in Data Science**
+
+**Description:**
+The **MCA program** with **Data Science specialization** combines **computer applications** with **data analytics**, **machine learning**, and **AI**. Students learn to work with **big data, deep learning models**, and **data-driven decision-making tools**.
+
+**Total Intake:** 20 seats
+
+**Eligibility:**
+- Any **graduate degree** (preferably with **Mathematics** at **10+2** or graduation level).
+- Minimum **50% marks** (45% for SC/ST).
+
+---
+
+### **MCA with Specialization in Artificial Intelligence**
+
+**Description:**
+The **MCA program** with **Artificial Intelligence specialization** focuses on **AI models, deep learning**, and **intelligent systems**. The curriculum includes **hands-on AI development**, **industry projects**, and **research-oriented learning**.
+
+**Total Intake:** 20 seats
+
+**Eligibility:**
+- Any **graduate degree** (preferably with **Mathematics** at **10+2** or graduation level).
+- Minimum **50% marks** (45% for SC/ST).
+
+---
+
+## **Doctoral Programme (Department of IT)**
+
+### **Ph.D. in Information and Communication Technology (ICT/IT)**
+
+**Description:**
+The **Ph.D. programme** in **ICT/IT** delves into **advanced research** in areas like **AI, data analytics, cybersecurity**, and **telecommunications**. It aims to produce **cutting-edge research** with **practical implications** for the **tech industry**.
+
+**Total Intake:** Based on available seats with supervisors.
+
+**Eligibility:**
+- **Master’s degree** in relevant disciplines (e.g., **M.Tech, M.Sc., MCA**).
+- Minimum **55% marks** (50% for SC/ST, OBC non-creamy layer, differently-abled, or EWS).
+
+---
+
+**The Department of IT remains dedicated to providing high-quality education, innovative research opportunities, and industry-relevant training to produce professionals equipped to excel in the rapidly evolving field of Information Technology.**
+

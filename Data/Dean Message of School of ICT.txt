@@ -1,0 +1,11 @@
+Dean Message of School of ICT(Information and Communication Technology) also known as USICT
+
+{
+"dean_message": {
+"name": "Dr. Arpit Bhardwaj",
+"title": "Dean, USICT",
+"department": "University School of Information and Communication Technology",
+"message": "University School of Information and Communication Technology (USICT) was established in 2008 to address academic and research needs in electronics, communication, and computer science. The first academic session began in July 2009 with a postgraduate program, and the school now offers undergraduate, postgraduate, and research programs in emerging ICT fields. The institution is dedicated to high-quality education and the development of technocrats skilled in modern technologies. To align education with industry requirements, the school regularly organizes guest lectures, workshops, symposiums, and conferences. The first batch of postgraduate students graduated in 2011. USICT boasts state-of-the-art classrooms with audio-visual aids, well-equipped laboratories, and a team of committed faculty members. The school has outlined its future development in the "Vision 2020" document and is actively pursuing its goals. With a focus on advanced research, USICT has enrolled several research scholars working on key areas of electronics, communication, and computer engineering. The institution firmly believes in the power of knowledge and continues to foster an environment of learning and innovation for its students."
+}
+}
+

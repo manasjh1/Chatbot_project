@@ -1,0 +1,126 @@
+### Course Structure for M.Tech. in ECE
+**Specialization:** Railway Signalling, Telecommunication, and RAMS  
+**Duration:** 2 Years  
+**Batch:** 2024-2026
+
+**University:** Gautam Buddha University, Greater Noida, U.P., India  
+**Department:** Electronics and Communication Engineering (ECE)  
+**School:** Information and Communication Technology  
+
+This document provides the semester-wise structure for the **M.Tech. in ECE** program specializing in **Railway Signalling, Telecommunication, and RAMS** for the **batch 2024-2026**.
+
+---
+
+## **Semester I (Session 2024-2026)**
+
+1. **ER101:** Basics of Signalling Engineering *(3-1-0)* - **4 Credits**
+2. **ER103:** Basics of Railway Engineering *(3-0-0)* - **3 Credits**
+3. **ER105:** Basics of Telecom Engineering *(3-0-0)* - **3 Credits**
+4. **EC401/EE571/CS401:** Optical Communication / Power System Analysis and Control / Compiler Design *(3-0-0)* - **3 Credits**
+5. **Elective 1:** *(3-0-0)* - **3 Credits**
+6. **EC481/EE591/CS481:** Optical Communication Lab / Power System Lab / Compiler Design Lab *(0-0-3)* - **2 Credits**
+7. **ER001:** System Design Lab *(0-0-2)* - **1 Credit**
+8. **EC493/EE493/CS493:** Minor Project *(0-0-8)* - **4 Credits**
+9. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 23  
+**Total Contact Hours:** 29
+
+---
+
+## **Semester II (Session 2024-2026)**
+
+1. **Generic Elective 1:** *(3-1-0)* - **4 Credits**
+2. **ER102:** Introduction to RAMS *(3-0-0)* - **3 Credits**
+3. **ER104:** Intelligent Transport Systems *(3-0-0)* - **3 Credits**
+4. **ER106:** Design Techniques for Safety *(3-0-0)* - **3 Credits**
+5. **Open Elective 1:** *(3-0-0)* - **3 Credits**
+6. **ER002:** Railway Signalling Lab *(0-0-3)* - **2 Credits**
+7. **ER004:** Major Project *(0-0-10)* - **5 Credits**
+8. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 23  
+**Total Contact Hours:** 29
+
+---
+
+## **Semester III (Session 2024-2026)**
+
+1. **ER105:** Advanced RAMS *(3-0-0)* - **3 Credits**
+2. **ER107:** Accident Investigation & Safety Standards *(3-0-0)* - **3 Credits**
+3. **Elective 2:** *(3-0-0)* - **3 Credits**
+4. **Elective 3:** *(3-0-0)* - **3 Credits**
+5. **Open Elective 2:** *(3-0-0)* - **3 Credits**
+6. **ER003:** RAMS Simulation Lab *(0-0-3)* - **2 Credits**
+7. **ER005:** Dissertation Part I *(0-0-14)* - **4 Credits**
+8. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 21  
+**Total Contact Hours:** 29
+
+---
+
+## **Semester IV (Session 2024-2026)**
+
+1. **ER004:** Dissertation Part II *(0-0-20)* - **23 Credits**
+2. **GP:** General Proficiency *(Non-Credit)*
+
+**Total Credits:** 23
+
+---
+
+### **Grand Total Credits:** 90
+
+---
+
+## **Course Details and Electives (M.Tech. Railway Signalling, Telecommunication, and RAMS)**
+
+### **Generic Elective (GE1)**
+1. **ER801:** Information Technology for Railway  
+2. Other electives offered by the School/Departments.
+
+---
+
+### **Elective 1 Options**
+1. **EC441:** Design with Microcontrollers  
+2. **EC443:** Telecommunication Switching and Networks  
+3. **EC661:** FPGA Architecture and Applications  
+4. **EC405:** Wireless Mobile Communication  
+5. **EC537:** Embedded Systems Concepts and Design  
+6. **EE445:** Utilization of Electric Energy and Traction  
+7. **EE501:** Power Electronics Devices and Magnetics  
+8. **CS451:** Wireless Technologies  
+9. **CS403:** Object-Oriented Analysis  
+10. **Other courses offered by respective departments (ECE/EE/CSE)**
+
+---
+
+### **Open Elective 1 & 2 Options**
+1. **ER901:** Advanced Railway Engineering  
+2. **ER902:** Electrical Signalling, Track Circuits, and Axle Counters  
+3. **ME503:** Mechatronics System Design  
+4. **IT413:** Fuzzy & Soft Computing Techniques  
+5. **EE001:** Utilization of Electrical Energy and Traction  
+6. **IT404:** Internet of Things  
+7. **CE001:** Construction Practices  
+8. **MB001:** Digital Marketing  
+9. **EC570:** System Specifications and Modeling  
+10. **Other courses offered by the ECE Department**
+
+---
+
+### **Elective 2 & 3 Options**
+1. **EC562:** Optical Networks  
+2. **EC643:** Smart Antenna Systems  
+3. **EC645:** Broadband Wireless Networks  
+4. **EC655:** Sensor and Actuator  
+5. **EC663:** Hardware Software Co-design  
+6. **ER903:** Metro Rail Signalling  
+7. **ER904:** Interlocking  
+8. **ER905:** Transport System Management  
+9. **ER906:** Utilization of Electric Power & SCADA Systems  
+10. **Other courses offered by the ECE Department**
+
+---
+
+**This course structure applies exclusively to the **M.Tech. in ECE** program with specialization in **Railway Signalling, Telecommunication, and RAMS** for the **session 2024-2026**.

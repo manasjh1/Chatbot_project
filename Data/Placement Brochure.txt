@@ -1,0 +1,193 @@
+### Placement Brochure | Gautam Buddha University (GBU)
+
+**Academic Year:** 2024-25  
+**School:** University School of Information and Communication Technology (USICT)
+
+---
+
+## **About Us**
+Gautam Buddha University (GBU), established by the **Uttar Pradesh Act (9) of 2002**, began its academic journey in **August 2008** on a **511-acre green campus** in **Greater Noida**. The university is **fully funded by NOIDA and GNIDA** under the **Government of Uttar Pradesh**.
+
+**Accreditations:**
+- **UGC 12B Recognition** *(UGC Act, 1956)*
+- **NAAC Accredited with B+ Grade**
+
+**Mission:**
+To foster innovation, creativity, and ethical excellence in **Information and Communication Technology (ICT)**.
+
+**Contact:**
+- **Phone:** 0120-2344200
+- **Email:** help@gbu.ac.in / crc@gbu.ac.in
+- **Website:** [www.gbu.ac.in](https://www.gbu.ac.in)
+
+---
+
+## **Corporate Relations Cell (CRC)**
+The **CRC** focuses on enhancing **student employability** by offering **career guidance, training, and industry interactions** across **eight schools**. The **USICT Placement Cell** ensures that students receive the **necessary training** to meet **industry demands**.
+
+**Key Activities:**
+- Conducting **mock interviews** and **technical workshops**.
+- Organizing **industrial visits** and **guest lectures**.
+- Facilitating **internship opportunities** with **top-tier companies**.
+
+---
+
+## **Message from the Leadership**
+
+### **Vice Chancellor's Message** *(Prof. Ravindra Kumar Sinha)*
+"Our students are well-equipped with **technical knowledge** and **strong ethical values**. USICT alumni have excelled in **global tech giants** like **Microsoft**, **HCL**, **TCS**, and **Addverb**, showcasing the **high-quality education** imparted at **GBU**."
+
+### **Dean's Message** *(Prof. Sanjay Kumar Sharma)*
+"Since its establishment in **2009**, **USICT** has grown into a hub of **technological excellence** with departments in **CSE**, **IT**, and **ECE**. Our programs emphasize **practical learning** to prepare students for **real-world challenges**."
+
+---
+
+## **Departments and Heads**
+- **Computer Science and Engineering (CSE)**: Dr. Vidushi Sharma
+- **Information Technology (IT)**: Dr. Neeta Singh
+- **Electronics and Communication Engineering (ECE)**: Dr. Anurag Singh Baghel
+
+---
+
+## **Centres of Excellence**
+
+### 1. **Centre of Excellence in Drone Technology (CEDT)**
+- **Specializes** in **drone design, manufacturing, testing, and maintenance**.
+- Provides **hands-on training** with a **dedicated flying facility**.
+
+### 2. **Centre for Rapid and Alternative Energy Mobility (CRAEM)**
+- Focuses on **rapid mobility solutions** like **metro and rail engineering**.
+- Collaborates on **energy-efficient transportation research**.
+
+### 3. **Centre of Excellence in Artificial Intelligence (CoE-AI)** *(Upcoming)*
+- Planned with support from **UP Government** and industry partners like **Microsoft**, **HCL**, and **Samsung**.
+- Aims to be a **hub for AI research and development**.
+
+---
+
+## **Key Industry Collaborations (MOUs)**
+- **Microsoft**
+- **HCL Technologies**
+- **Samsung**
+- **LG Electronics**
+- **Addverb Technologies**
+- **Wadhwani AI**
+- **Dixon Technologies**
+- **ETH Zurich**
+- **National Institute of Disaster Management (NIDM)**
+
+---
+
+## **Academic Programs Overview**
+
+### **Undergraduate Programs**
+- **B.Tech.** in **Computer Science Engineering (CSE)**
+- **B.Tech.** in **Artificial Intelligence (AI)**
+- **B.Tech.** in **Data Science (DS)**
+- **B.Tech.** in **Machine Learning (ML)**
+- **B.Tech.** in **Cyber Security (CS)**
+- **B.Tech.** in **Information Technology (IT)**
+- **B.Tech.** in **Electronics & Communication Engineering (ECE)**
+- **BCA** *(Bachelor of Computer Applications)*
+
+### **Postgraduate Programs**
+- **M.Tech.** in **Data Science**
+- **M.Tech.** in **Information and Communication Technology (ICT)**
+- **M.Tech.** in **Artificial Intelligence (AI)**
+- **M.Tech.** in **Wireless Communication & Networks**
+- **M.Tech.** in **VLSI Design**
+- **MCA** in **Artificial Intelligence** *(MAI)*
+- **MCA** in **Data Science** *(MDS)*
+
+### **Integrated Program**
+- **Integrated B.Tech. & M.Tech.** *(5-year dual degree)*
+
+---
+
+## **Student Profile and Skills**
+
+USICT students demonstrate **proficiency across various domains**, including:
+
+### **Programming Languages**
+- **Python** *(80%)*  
+- **Java** *(75%)*  
+- **C/C++** *(72%)*  
+- **JavaScript** *(65%)*
+
+### **Technological Expertise**
+- **Artificial Intelligence (AI)** *(68%)*
+- **Cloud Computing** *(60%)*
+- **Machine Learning (ML)** *(70%)*
+- **Cybersecurity** *(55%)*
+
+---
+
+## **Placement Statistics (2021–2023)**
+
+- **Placement Rate:** 74% *(2023)*, 87% *(2022)*, 83% *(2021)*
+- **Average Placement Rate:** **72%**
+
+### **Salary Packages**
+- **Highest Package:** **51 LPA** *(Offered to Om Sharma)*
+- **Average Package:** **12.59 LPA**
+- **Top Packages:**
+  - **21 LPA** *(Harsh Raghav)*
+  - **10 LPA** *(Suyash Patodia)*
+  - **7 LPA** *(Sahil Tyagi)*
+
+### **Internship Placements**
+- **Tier 1 Companies:** 18%  
+- **Tier 2 Companies:** 62%  
+- **Tier 3 Companies:** 20%
+
+**Top Recruiters:**
+- **Microsoft**, **HCL**, **TCS**, **Samsung**, **Wipro**, **Infosys**, **Addverb Technologies**, **Dixon Technologies**.
+
+---
+
+## **Placement Process**
+
+1. **Formal Invitations**: CRC invites companies for **campus placements**.
+2. **Job Notification Form**: Companies share **job details**.
+3. **Placement Schedule**: **CRC coordinates test and interview dates**.
+4. **Recruitment Process**: **Tests, interviews, and group discussions**.
+5. **Selection Announcement**: Companies **declare results** and **issue offer letters**.
+
+---
+
+## **Student Clubs**
+
+- **IEEE Student Branch** *(Technical innovation and team collaboration)*
+- **Google Developer Student Club (GDSC)** *(Workshops and coding events)*
+- **Microsoft Learn Community** *(Microsoft technologies training)*
+- **Techno-Cultural Club** *(Technical and cultural events)*
+- **GBU Incubation Center** *(Start-up mentoring and support)*
+
+---
+
+## **Events and Training**
+
+GBU regularly hosts **workshops, seminars, and hackathons** to enhance **student skills** and **industry readiness**.
+
+### **Notable Events:**
+- **GDSC WOW NCR (2023)** *(1200+ participants)*
+- **CodeMatrix Hackathon** *(300+ participants)*
+- **Azure AI Workshop (2022)** *(500+ participants)*
+
+---
+
+## **Placement Contact Details**
+
+- **Placement Cell Email:** placement.usict@gbu.ac.in
+- **Placement In-Charge:** Dr. Raju Pal *(+91-9717195787)*
+- **Director CRC:** Dr. Vinay Litoria *(+91-7840045107)*
+
+**GBU Campus Location:** Opp. Yamuna Expressway, **Greater Noida, U.P. - 201312**
+
+**Nearest Metro:** Pari Chowk / Botanical Garden  
+**Nearest Airport:** Indira Gandhi International Airport *(New Delhi)*
+
+---
+
+**USICT at GBU** remains committed to providing **top-tier placements** and ensuring that **graduates excel** in the **global IT landscape**.
+
