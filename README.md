@@ -1,4 +1,4 @@
-![Screenshot 2025-03-03 223606](https://github.com/user-attachments/assets/d501d5d1-cce7-483b-a143-397e630f1b37)# 📚 RAG-Based Chatbot for College
+### 📚 RAG-Based Chatbot for College
 
 This is an AI-powered chatbot designed to handle college-related queries using **Retrieval-Augmented Generation (RAG)**. The chatbot integrates **LLM (Large Language Models), vector databases (Pinecone), and a knowledge graph (Neo4j)** to provide accurate and context-aware responses to students.
 
