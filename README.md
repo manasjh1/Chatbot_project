@@ -168,6 +168,9 @@ Licensed under the **MIT License**.
 
 ---
 
+![Untitled whiteboard 2025-07-07 (2)](https://github.com/user-attachments/assets/909b5205-e669-424f-9e60-33c618ab7fe5)
+
+
 
 > 🌠 *"Empowering Bharat’s space data with accessible, intelligent AI conversations."*
 
